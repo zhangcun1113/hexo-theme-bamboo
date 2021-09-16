@@ -5,7 +5,7 @@
 ![https://img.shields.io/npm/v/hexo-theme-bamboo?color=%09%23bf00ff](https://img.shields.io/npm/v/hexo-theme-bamboo?color=%09%23bf00ff)
 ![hexo version](https://img.shields.io/badge/hexo-5.0+-0e83c)
 
-最新文档，请[点击github查看](https://yuang01.github.io)，或者[点击gitee查看](https://yuang01.gitee.io)，
+最新文档，请[点击github查看](https://zhangcun1113.github.io)，或者[点击gitee查看](https://yuang01.gitee.io)，
 
 <table>
     <tr>
@@ -32,11 +32,11 @@
 #### 当你有了hexo博客之后，进入`themes`文件夹下使用 `Git clone` 命令来下载:
 github安装
 ``` bash
-git clone https://github.com/yuang01/hexo-theme-bamboo.git
+git clone https://github.com/zhangcun1113/hexo-theme-bamboo.git
 ```
 gitee安装
 ```bash
-git clone https://gitee.com/yuang01/hexo-theme-bamboo.git
+git clone https://gitee.com/zhangcun1113/hexo-theme-bamboo.git
 ```
 修改hexo根目录下的站点配置文件`_config.yml`，把主题改为`hexo-theme-bamboo`，通过主题文件夹下的`config.yml`配置主题即可
 
